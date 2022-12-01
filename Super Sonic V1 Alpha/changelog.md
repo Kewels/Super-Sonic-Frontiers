@@ -1,3 +1,6 @@
+## Super SOnic (Kewels) 1.5t
+-Server change.  Please run another update after this one.
+
 ## Super Sonic (Kewels) 1.5
 -Hefty animation update
 
